@@ -1,4 +1,4 @@
-#!/bin/bashAdd commentMore actions
+#!/bin/bash
 
 if [ "$#" -ne 3 ]; then
     echo "Uso: $0 <container_name> <database> <output_file>"
